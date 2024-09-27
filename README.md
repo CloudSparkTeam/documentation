@@ -29,20 +29,25 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 
 ## 🔨 Entregas
 
-| Sprint | Previsão | Status | 
-|:--:|:----------:|:------------:|
-| 01 | 02/04/2023 | 🚧 Em andamento | 
-| 02 | 23/04/2023 |  🔒 Pendente | 
-| 03 | 14/05/2023 | 🔒 Pendente | 
-| 04 | 04/06/2023 | 🔒 Pendente | 
+| Sprint | Previsão | Status | Relatório da Sprint |
+|:--:|:----------:|:------------:|:-------------:|
+| 01 | 02/04/2023 | 🚧 Em andamento | [Relatório]() |
+| 02 | 23/04/2023 |  🔒 Pendente | - |
+| 03 | 14/05/2023 | 🔒 Pendente | - |
+| 04 | 04/06/2023 | 🔒 Pendente | - |
 
 → [Voltar ao topo](#topo)
 
 <span id="backlog">
 
 ## Backlog do produto
+<div align="center">
+  
+|Sprint | Requisito | status |
+|:-----:|:----------:|:-----:|
+|  1  | -------- | ✔️ |
 
-ESPAÇO DESTINADO AO BACKLOG DO PRODUTO.
+</div>
 
 → [Voltar ao topo](#topo)
 
