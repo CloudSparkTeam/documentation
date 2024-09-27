@@ -1,6 +1,10 @@
 <h1 id="topo" align="center"> 🌩️ CloudSpark 🌩️</h1>
 
-# Banner
+<div align="center">
+  <img src="./assets/bannerProjetogit.png" height=280px>
+</div>
+
+<br>
 
 <p align="center"> 
   <a href="#sobre">Sobre</a>  |  
