@@ -31,7 +31,7 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
-| 01 | 02/04/2023 | 🚧 Em andamento | [Relatório]() |
+| 01 | 02/04/2023 | 🚧 Em andamento | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
 | 02 | 23/04/2023 |  🔒 Pendente | - |
 | 03 | 14/05/2023 | 🔒 Pendente | - |
 | 04 | 04/06/2023 | 🔒 Pendente | - |
