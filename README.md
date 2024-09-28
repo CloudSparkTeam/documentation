@@ -21,7 +21,7 @@
 
 ## 🗺️  Sobre o Projeto
 
-As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em suas capacidades de imageamento devido, principalmente, à cobertura de nuvens. Tendo isso em mente, nós estabelecemos como objetivo desse projeto criar uma aplicação que seja capaz de analisar uma determinada área de busca de acordo com um período e uma amplitude de interesse e então, aplicar uma máscara gerada automaticamente por uma inteligência artificial, que apresentará os focos com coberturas de nuvens e sombras de nuvens, permitindo também, o donwload destas imagens. Esse sistema contará com disponibilidade para dispositivos móveis, bem como, uma interface web intuitiva para realização das buscas de interesse. Além disso, a aplicação será integrada com uma IA de autoria própria, amplamente treinada e testada.
+As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em suas capacidades de imageamento devido, principalmente, à cobertura de nuvens. Tendo isso em mente, nós estabelecemos como objetivo desse projeto criar uma aplicação que seja capaz de analisar imagens disponibilizadas pelo sensor WPM do CBERS4A, após uma determinada área de busca ser escolhida, de acordo com um período e uma amplitude de interesse e então, aplicar uma máscara gerada automaticamente por uma inteligência artificial, que apresentará os focos com coberturas de nuvens e sombras de nuvens, permitindo também, o download destas imagens. Esse sistema contará com disponibilidade para dispositivos móveis, bem como, uma interface web intuitiva para realização das buscas de interesse. Além disso, a aplicação será integrada com uma IA de autoria própria, amplamente treinada e testada.
 
 → [Voltar ao topo](#topo)
 
@@ -31,10 +31,10 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
-| 01 | 02/04/2023 | 🚧 Em andamento | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
-| 02 | 23/04/2023 |  🔒 Pendente | - |
-| 03 | 14/05/2023 | 🔒 Pendente | - |
-| 04 | 04/06/2023 | 🔒 Pendente | - |
+| 01 | 09/09/2024 | 🚧 Em andamento | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
+| 02 | 30/09/2024 |  🔒 Pendente | - |
+| 03 | 21/10/2024 | 🔒 Pendente | - |
+| 04 | 11/11/2024 | 🔒 Pendente | - |
 
 → [Voltar ao topo](#topo)
 
@@ -45,7 +45,15 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
   
 |Sprint | Requisito | status |
 |:-----:|:----------:|:-----:|
-|  1  | -------- | ✔️ |
+|  1  | Serviço backend responsável pelo repasse das imagens analisadas | ✔️ |
+| 1 | Aplicação frontend web com mapas interativos e função de busca de área de interesse| ✔️ |
+| 1 | Serviço de IA responsável por analisar e gerar máscaras de cobertura | ✔️ |
+| 1 | As funções de buscas devem permitir um intervalo de tempo desejado| ✔️ |
+| 1 | Implementação do serviço em nuvem | ✔️ |
+| 2 | Aplicação frontend mobile com mapas interativos e função de busca por zona de interesse| 🔐 |
+| 3 | Documentação do serviço de IA| 🔐 |
+| 4 | Função de download de imagens analisadas | 🔐 |
+
 
 </div>
 
