@@ -12,7 +12,7 @@
   <a href="#backlog">Backlog</a> |
   <a href="#docs da ia">Documentação da IA</a>  |
   <a href="#repositorios"> Repositórios</a> |
-  <a href="#tecnologia">Tecnologias</a>  |
+  <a href="#tecnologias">Tecnologias</a>  |
   <a href="#equipe">Equipe</a> |
 </p>
 
@@ -21,7 +21,9 @@
 
 ## 🗺️  Sobre o Projeto
 
-As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em suas capacidades de imageamento devido, principalmente, à cobertura de nuvens. Tendo isso em mente, nós estabelecemos como objetivo desse projeto criar uma aplicação que seja capaz de analisar imagens disponibilizadas pelo sensor WPM do CBERS4A, após uma determinada área de busca ser escolhida, de acordo com um período e uma amplitude de interesse e então, aplicar uma máscara gerada automaticamente por uma inteligência artificial, que apresentará os focos com coberturas de nuvens e sombras de nuvens, permitindo também, o download destas imagens. Esse sistema contará com disponibilidade para dispositivos móveis, bem como, uma interface web intuitiva para realização das buscas de interesse. Além disso, a aplicação será integrada com uma IA de autoria própria, amplamente treinada e testada.
+As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em suas capacidades de imageamento devido, principalmente, à cobertura de nuvens. Tendo isso em mente, nós estabelecemos como objetivo desse projeto criar uma aplicação que seja capaz de analisar imagens disponibilizadas pelo sensor WPM do CBERS4A, após uma determinada área de busca ser escolhida, de acordo com um período e uma amplitude de interesse e então, aplicar uma máscara gerada automaticamente por uma inteligência artificial, que apresentará os focos com coberturas de nuvens e sombras de nuvens, permitindo também, o download destas imagens. 
+
+Esse sistema contará com disponibilidade para dispositivos móveis, bem como, uma interface web intuitiva para realização das buscas de interesse. Além disso, a aplicação será integrada com uma IA de autoria própria, amplamente treinada e testada.
 
 → [Voltar ao topo](#topo)
 
