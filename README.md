@@ -64,6 +64,12 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 ## Backlog das Sprints
 
+<div align="center">
+  <img src="./assets/sprints.png">
+</div>
+<br>
+
+### Para visualização das user stories do projeto:
 → [Ver Epics e UserStories]()
 
 → [Voltar ao topo](#topo)
