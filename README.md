@@ -65,7 +65,7 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 ## Backlog das Sprints
 
 <div align="center">
-  <img src="./assets/sprints.png">
+  <img src="./assets/diagSprints.png">
 </div>
 <br>
 
