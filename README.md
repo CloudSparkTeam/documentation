@@ -31,8 +31,8 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
-| 01 | 09/09/2024 | 🚧 Em andamento | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
-| 02 | 30/09/2024 |  🔒 Pendente | - |
+| 01 | 09/09/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
+| 02 | 30/09/2024 |  🚧 Em andamento | - |
 | 03 | 21/10/2024 | 🔒 Pendente | - |
 | 04 | 11/11/2024 | 🔒 Pendente | - |
 
@@ -49,13 +49,19 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 | 1 | Aplicação frontend web com mapas interativos e função de busca de área de interesse| ✔️ |
 | 1 | Serviço de IA responsável por analisar e gerar máscaras de cobertura | ✔️ |
 | 1 | As funções de buscas devem permitir um intervalo de tempo desejado| ✔️ |
-| 1 | Implementação do serviço em nuvem | ✔️ |
+| 1 | Implementação do serviço de IA em nuvem | ✔️ |
 | 2 | Aplicação frontend mobile com mapas interativos e função de busca por zona de interesse| 🔐 |
+| 2 | Implementação do serviço web em nuvem | 🔐 |
+| 2 | Implementação do serviço backend em nuvem | 🔐 |
 | 3 | Documentação do serviço de IA| 🔐 |
+| 3 | Implementação do serviço mobile em nuvem | 🔐 |
 | 4 | Função de download de imagens analisadas | 🔐 |
 
-
 </div>
+
+## Backlog das Sprints
+
+→ [Ver Epics e UserStories]()
 
 → [Voltar ao topo](#topo)
 
@@ -71,11 +77,24 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 
 ## 📡 Links para os repositórios
 
+- → [Serviço backend]()
+- → [Serviço frontend web]()
+- → [Serviço frontend mobile]()
+- → [Serviço de IA]()
+
 → [Voltar ao topo](#topo)
 
 <span id="tecnologias">
 
 ## 🛠️ Tecnologias utilizadas
+
+| Ferramenta | tipo de tecnologia |
+|:-----------:|:-----------------:|
+| Typescript e js| Desenvolvimento |
+| React | Desenvolvimento |
+| Slack| Gestão |
+| Jira | Gestão |
+| Figma | Gestão e Prototipação |
 
 → [Voltar ao topo](#topo)
 
