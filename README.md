@@ -47,17 +47,18 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
   
 |Sprint | Requisito | status |
 |:-----:|:----------:|:-----:|
-|  1  | Serviço backend responsável pelo repasse das imagens analisadas | ✔️ |
+| 1 | Serviço backend responsável pelo repasse das imagens analisadas | ✔️ |
 | 1 | Aplicação frontend web com mapas interativos e função de busca de área de interesse| ✔️ |
 | 1 | Serviço de IA responsável por analisar e gerar máscaras de cobertura | ✔️ |
 | 1 | As funções de buscas devem permitir um intervalo de tempo desejado| ✔️ |
 | 1 | Implementação do serviço de IA em nuvem | ✔️ |
 | 2 | Aplicação frontend mobile com mapas interativos e função de busca por zona de interesse| 🔐 |
-| 2 | Implementação do serviço web em nuvem | 🔐 |
-| 2 | Implementação do serviço backend em nuvem | 🔐 |
+| 2 | Tela e operações de login | 🔐 |
 | 3 | Documentação do serviço de IA| 🔐 |
-| 3 | Implementação do serviço mobile em nuvem | 🔐 |
-| 4 | Função de download de imagens analisadas | 🔐 |
+| 3 | Função de download de imagens analisadas | 🔐 |
+| 4 | Implementação do serviço mobile em nuvem | 🔐 |
+| 4 | Implementação do serviço web em nuvem | 🔐 |
+| 4 | Implementação do serviço backend em nuvem | 🔐 |
 
 </div>
 
