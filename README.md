@@ -77,10 +77,10 @@ As técnicas de sensoriamento remoto óptico orbital enfrentam dificuldades em s
 
 ## 📡 Links para os repositórios
 
-- → [Serviço backend]()
-- → [Serviço frontend web]()
-- → [Serviço frontend mobile]()
-- → [Serviço de IA]()
+- → [Serviço Backend](https://github.com/CloudSparkTeam/cloudSpark-warehouse)
+- → [Serviço Frontend Web](https://github.com/CloudSparkTeam/cloudSpark-web)
+- → [Serviço Frontend Mobile](https://github.com/CloudSparkTeam/cloudSpark-mobile)
+- → [Serviço de IA](https://github.com/CloudSparkTeam/cloudSpark-terminator)
 
 → [Voltar ao topo](#topo)
 
