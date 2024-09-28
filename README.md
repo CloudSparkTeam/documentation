@@ -70,7 +70,7 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 <br>
 
 ### Para visualização das user stories do projeto:
-→ [Ver Epics e UserStories]()
+→ [Ver Epics e UserStories](https://github.com/CloudSparkTeam/documentation/blob/main/docs/EpicsUserStories.md)
 
 → [Voltar ao topo](#topo)
 
@@ -97,13 +97,16 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 ## 🛠️ Tecnologias utilizadas
 
-| Ferramenta | tipo de tecnologia |
+| Ferramenta | Tipo de Tecnologia |
 |:-----------:|:-----------------:|
-| Typescript e js| Desenvolvimento |
-| React | Desenvolvimento |
-| Slack| Gestão |
-| Jira | Gestão |
-| Figma | Gestão e Prototipação |
+| TYPESCRIPT E JS| 🔨 Desenvolvimento |
+| PYTHON| 🔨 Desenvolvimento |
+| YOLO | 🔨 Desenvolvimento | 
+| REACT NATIVE | 🔨 Desenvolvimento |
+| REACT | 🔨 Desenvolvimento |
+| SLACK| 👥 Gestão |
+| JIRA | 👥 Gestão |
+| FIGMA | 📝 Gestão e Prototipação |
 
 → [Voltar ao topo](#topo)
 
