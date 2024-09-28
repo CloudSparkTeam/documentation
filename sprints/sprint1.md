@@ -9,7 +9,12 @@
 <span id="objetivo">
 
 ## :dart: Objetivos da Sprint
-blablablab
+
+- Tivemos como foco dessa primeira sprint, a criação de uma inteligência artificial que já fosse capaz de identificar de forma simples, a presença de nuvens nas imagens recolhidas aplicando uma máscara ao encontrá-las. Também foi feito a disponibilização desse serviço para a nuvem num servidor aws.
+
+- Foi desenvolvido também, uma plataforma web para que usuários interajam com o mapa, podendo realizar buscas em regiões de interesse que serão passadas para a IA.
+
+- O repasse e armazenagem dessas imagens é de responsabilidade do serviço backend.
 
 → [Voltar ao topo](#topo)
 
