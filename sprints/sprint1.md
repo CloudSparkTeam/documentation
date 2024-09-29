@@ -54,10 +54,12 @@ Atualmente, o projeto está assim:
 
 ---
 
+</div>
 <h2 id="burndown">📉 Burndown</h2>
 
     Este é o burndown da equipe, gerado pelo Jira. Enfrentamos alguns contratempos, tanto na idealização inicial do projeto quanto com a automação no Jira:
 <p align="center">
   <img src="../assets/1sprint/burndown.png" alt="Burndown gráfico da Sprint 1">
 </p>
+
 → [Voltar ao topo](#topo)
