@@ -4,26 +4,60 @@
 <p align="center">
     <a href="#objetivo">Objetivo da Sprint</a>  |  
     <a href="#entrega">Entregas</a>
+    <a href="#backlog">📝 Backlog da Sprint</a>  |  
+    <a href="#burndown">📉 Burndown</a>
 </p>
 
-<span id="objetivo">
+---
 
-## :dart: Objetivos da Sprint
+<h2 id="objetivo">🎯 Objetivos da Sprint</h2>
 
-- Tivemos como foco dessa primeira sprint, a criação de uma inteligência artificial que já fosse capaz de identificar de forma simples, a presença de nuvens nas imagens recolhidas aplicando uma máscara ao encontrá-las. Também foi feito a disponibilização desse serviço para a nuvem num servidor aws.
+O foco principal desta primeira sprint foi:
 
-- Foi desenvolvido também, uma plataforma web para que usuários interajam com o mapa, podendo realizar buscas em regiões de interesse que serão passadas para a IA.
-
-- O repasse e armazenagem dessas imagens é de responsabilidade do serviço backend.
+- **Criação de uma inteligência artificial** capaz de identificar a presença de nuvens nas imagens recolhidas, aplicando uma máscara ao encontrá-las. Este serviço foi disponibilizado em um servidor AWS.
+- **Desenvolvimento de uma plataforma web** para interação com o mapa, permitindo buscas em regiões de interesse, cujas coordenadas são passadas para a IA.
+- **Gestão e armazenamento** das imagens analisadas através de um serviço backend.
 
 → [Voltar ao topo](#topo)
 
 <span id="entrega">
 
-## :heavy_check_mark: Entregas
+<h2 id="entregas">📦 Entregas</h2>
 
-### Func1
+### 🎥 Vídeo de Funcionamento do Projeto (Sprint 1)
 
-### Func2
+Atualmente, o projeto está assim:
+<p align="center">
+  <img src="../assets/1sprint/GIF-1SPRINT.gif" alt="GIF do projeto em funcionamento">
+</p>
 
+
+### 📸 Tratamento de Imagem Através da IA
+
+<p align="center">
+  <img src="../assets/1sprint/identificacaoNuvem1Sprint.jpg" alt="Exemplo de identificação de nuvens">
+</p>
+
+---
+
+<h2 id="backlog">📝 Backlog da Sprint</h2>
+  
+<div align="center">
+  
+| Sprint | Requisito | Status |
+|:------:|:----------:|:------:|
+| 1      | Serviço backend responsável pelo repasse das imagens analisadas | ✔️ |
+| 1      | Aplicação frontend web com mapas interativos e função de busca de área de interesse | ✔️ |
+| 1      | Serviço de IA responsável por analisar e gerar máscaras de cobertura | ✔️ |
+| 1      | Funções de busca devem permitir intervalo de tempo desejado | ✔️ |
+| 1      | Implementação do serviço de IA na nuvem | ✔️ |
+
+---
+
+<h2 id="burndown">📉 Burndown</h2>
+
+    Este é o burndown da equipe, gerado pelo Jira. Enfrentamos alguns contratempos, tanto na idealização inicial do projeto quanto com a automação no Jira:
+<p align="center">
+  <img src="../assets/1sprint/burndown.png" alt="Burndown gráfico da Sprint 1">
+</p>
 → [Voltar ao topo](#topo)
