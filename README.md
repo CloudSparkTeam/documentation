@@ -1,7 +1,7 @@
 <h1 id="topo" align="center"> 🌩️ CloudSpark 🌩️</h1>
 
 <div align="center">
-  <img src="./assets/bannerProjetogit.png" height=280px>
+  <img src="./assets/bannerProjetogit.png" height="280px" alt="Banner do Projeto">
 </div>
 
 <br>
@@ -16,6 +16,7 @@
   <a href="#equipe">Equipe</a> |
 </p>
 
+---
 
 <span id="sobre">
 
@@ -27,22 +28,27 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 → [Voltar ao topo](#topo)
 
+---
+
 <span id="entregas">
 
 ## 🔨 Entregas
 
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
-| 01 | 09/09/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
-| 02 | 30/09/2024 |  🚧 Em andamento | - |
-| 03 | 21/10/2024 | 🔒 Pendente | - |
-| 04 | 11/11/2024 | 🔒 Pendente | - |
+| 01 | 29/09/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
+| 02 | 20/10/2024 | 🔒 Pendente | - |
+| 03 | 10/11/2024 | 🔒 Pendente | - |
+| 04 | 01/12/2024 | 🔒 Pendente | - |
 
 → [Voltar ao topo](#topo)
 
+---
+
 <span id="backlog">
 
-## Backlog do produto
+## 📝 Backlog do Produto
+
 <div align="center">
   
 |Sprint | Requisito | status |
@@ -62,19 +68,23 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 </div>
 
-## Backlog das Sprints
+## 📝 Backlog das Sprints
 
 <div align="center">
   <img src="./assets/diagSprints.png">
 </div>
 <br>
 
+---
+
 ### Para visualização das user stories do projeto:
 → [Ver Epics e UserStories](https://github.com/CloudSparkTeam/documentation/blob/main/docs/EpicsUserStories.md)
 
 → [Voltar ao topo](#topo)
 
-<span id="docs da ia">
+---
+
+<span id="docs-da-ia">
 
 ## 🤖☁️ Documentação da IA
 
@@ -82,9 +92,11 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 → [Voltar ao topo](#topo)
 
+---
+
 <span id="repositorios">
 
-## 📡 Links para os repositórios
+## 📡 Repositórios
 
 - → [Serviço Backend](https://github.com/CloudSparkTeam/cloudSpark-warehouse)
 - → [Serviço Frontend Web](https://github.com/CloudSparkTeam/cloudSpark-web)
@@ -93,22 +105,33 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 → [Voltar ao topo](#topo)
 
+---
+
 <span id="tecnologias">
 
 ## 🛠️ Tecnologias utilizadas
 
-| Ferramenta | Tipo de Tecnologia |
-|:-----------:|:-----------------:|
-| TYPESCRIPT E JS| 🔨 Desenvolvimento |
-| PYTHON| 🔨 Desenvolvimento |
-| YOLO | 🔨 Desenvolvimento | 
-| REACT NATIVE | 🔨 Desenvolvimento |
-| REACT | 🔨 Desenvolvimento |
-| SLACK| 👥 Gestão |
-| JIRA | 👥 Gestão |
-| FIGMA | 📝 Gestão e Prototipação |
+
+| Ferramenta      | Tipo de Tecnologia       |
+|:---------------:|:-----------------------:|
+| **TypeScript**  | 🔨 Desenvolvimento      |
+| **Python**      | 🔨 Desenvolvimento      |
+| **YOLO e Roboflow** | 🔨 Desenvolvimento  |
+| **React Native**| 🔨 Desenvolvimento      |
+| **React**       | 🔨 Desenvolvimento      |
+| **Docker**      | 🔧 Desenvolvimento      |
+| **Git & GitHub**| 🔧 Controle de Versão   |
+| **AWS**         | ☁️ Infraestrutura na Nuvem |
+| **Prisma**      | 🔧 Banco de Dados       |
+| **PostgreSQL**  | 🔧 Banco de Dados       |
+| **Slack**       | 👥 Comunicação          |
+| **Jira**        | 👥 Gestão de Projetos   |
+| **Figma**       | 📝 Prototipação         |
+
 
 → [Voltar ao topo](#topo)
+
+---
 
 <span id="equipe">
 
@@ -117,11 +140,13 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | Caio Vitor Dias |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiovitordias1)             |
-| Scrum Master  | Igor Da Silva Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()             |
-|   Dev Team    | Valderi Douglas | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
-|   Dev Team    | Augusto Henrique Buin |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()    |
-|   Dev Team    | Felipe Augunsto Graciano | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
-|   Dev Team    | Julio de Paula Machado | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioPm142) |
-|   Dev Team    | Vitor Garcez de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |  Dev Team | Gabriela da Silva Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] ()|
+| Scrum Master  | Igor Da Silva Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-pereira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/igorpereira28)             |
+|   Dev Team    | Augusto Henrique Buin |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/augusto-henrique-buin) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AugustoBuin)    |
+|   Dev Team    | Felipe Augusto Graciano | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-augusto-graciano-2b796026a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Yetgvg) |
+|   Dev Team    | Gabriela da Silva Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieladsbarbosa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabidsbarbosa) |
+|   Dev Team    | Julio de Paula Machado | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/júlio-machado-7a07a4250) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioPm142) |
+|   Dev Team    | Valderi Douglas | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/valderidouglas) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ValderiDouglas) |
+|   Dev Team    | Vitor Garcez de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgarcezdeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitaog) |
+
 
 → [Voltar ao topo](#topo)
