@@ -28,14 +28,14 @@ O foco principal desta primeira sprint foi:
 
 Atualmente, o projeto está assim:
 <p align="center">
-  <img src="../assets/1sprint/GIF-1SPRINT.gif" alt="GIF do projeto em funcionamento">
+  <img src="../assets/sprint1/GIF-1SPRINT.gif" alt="GIF do projeto em funcionamento">
 </p>
 
 
 ### 📸 Tratamento de Imagem Através da IA
 
 <p align="center">
-  <img src="../assets/1sprint/identificacaoNuvem1Sprint.jpg" alt="Exemplo de identificação de nuvens">
+  <img src="../assets/sprint1/identificacaoNuvem1Sprint.jpg" alt="Exemplo de identificação de nuvens">
 </p>
 
 ---
@@ -57,9 +57,9 @@ Atualmente, o projeto está assim:
 </div>
 <h2 id="burndown">📉 Burndown</h2>
 
-    Este é o burndown da equipe, gerado pelo Jira. Enfrentamos alguns contratempos, tanto na idealização inicial do projeto quanto com a automação no Jira:
+    Este é o burndown da equipe atualizado. Enfrentamos alguns contratempos, como na idealização inicial do projeto:
 <p align="center">
-  <img src="../assets/1sprint/burndown.png" alt="Burndown gráfico da Sprint 1">
+  <img src="../assets/sprint1/burndown.png" alt="Burndown gráfico da Sprint 1">
 </p>
 
 → [Voltar ao topo](#topo)
