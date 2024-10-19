@@ -37,7 +37,7 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
 | 01 | 29/09/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
-| 02 | 20/10/2024 | 🔒 Pendente | - |
+| 02 | 20/10/2024 | ✔️ Concluída | - |
 | 03 | 10/11/2024 | 🔒 Pendente | - |
 | 04 | 01/12/2024 | 🔒 Pendente | - |
 
