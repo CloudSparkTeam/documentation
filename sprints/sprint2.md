@@ -24,19 +24,24 @@ O foco principal desta primeira sprint foi:
 ### 🎥 Vídeo de Funcionamento do Projeto (Sprint 2)
 
 <h3 align="center">PLATAFORMA MOBILE</h3>
+<h4 align="center">O vídeo do projeto na plataforma mobile foi dividido em 3 partes, sendo elas consecutivamente:</h4>
+<li>1 - Cadastro de usuário e Login</li>
 <p align="center">
-  <video controls width="50%" height="300px">
-    <source src="../assets/sprint2/sprint2video.mp4" type="video/mp4" />
-    Seu navegador não suporta a exibição de vídeos.
-  </video>
+  <img src="../assets/sprint2/sprint2_parte1.gif" width="20%" height="300px" alt="GIF do projeto em funcionamento">
 </p>
+<li>2 - Busca por região de interesse (através de busca de cidade)</li>
+<p align="center">
+  <img src="../assets/sprint2/sprint2_parte2.gif" width="20%" height="300px" alt="GIF do projeto em funcionamento">
+</p>
+<li>3 - Busca por região de interesse (através de selecionar 4 pontos da área de interesse)</li> 
+<p align="center">
+  <img src="../assets/sprint2/sprint2_parte3.gif" width="20%" height="300px" alt="GIF do projeto em funcionamento">
+</p>
+
 
 <h3 align="center">PLATAFORMA WEB</h3>
 <p align="center">
-  <video controls width="100%" height="100%">
-    <source src="../assets/sprint2/sprint2webvideo.mp4" type="video/mp4" />
-    Seu navegador não suporta a exibição de vídeos.
-  </video>
+  <img src="../assets/sprint2/sprint2web.gif" alt="GIF do projeto em funcionamento">
 </p>
 
 
