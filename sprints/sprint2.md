@@ -21,11 +21,32 @@ O foco principal desta primeira sprint foi:
 
 <h2 id="entregas">📦 Entregas</h2>
 
-### 🎥 Vídeo de Funcionamento do Projeto (Sprint 1)
+### 🎥 Vídeo de Funcionamento do Projeto (Sprint 2)
+
+<h3 align="center">PLATAFORMA MOBILE</h3>
+<p align="center">
+  <video controls width="50%" height="300px">
+    <source src="../assets/sprint2/sprint2video.mp4" type="video/mp4" />
+    Seu navegador não suporta a exibição de vídeos.
+  </video>
+</p>
+
+<h3 align="center">PLATAFORMA WEB</h3>
+<p align="center">
+  <video controls width="100%" height="100%">
+    <source src="../assets/sprint2/sprint2webvideo.mp4" type="video/mp4" />
+    Seu navegador não suporta a exibição de vídeos.
+  </video>
+</p>
+
 
 
 ### 📸 Tratamento de Imagem Através da IA
-
+<p align="center">
+  <img src="../assets/sprint2/identificacaoNuvem2Sprint_imagem1.jpg" alt="Exemplo de identificação de nuvens">
+  <img src="../assets/sprint2/identificacaoNuvem2Sprint_imagem2.jpg" alt="Exemplo de identificação de nuvens">
+  <img src="../assets/sprint2/identificacaoNuvem2Sprint_imagem3.jpg" alt="Exemplo de identificação de nuvens">
+</p>
 
 ---
 
@@ -43,5 +64,10 @@ O foco principal desta primeira sprint foi:
 
 </div>
 <h2 id="burndown">📉 Burndown</h2>
+
+    Este é o burndown da equipe atualizado. Enfrentamos alguns contratempos, como termos de adicionar novas tasks depois de iniciarmos a 2 sprint:
+<p align="center">
+  <img src="../assets/sprint2/burndown.png" alt="Burndown gráfico da Sprint 2">
+</p>
 
 → [Voltar ao topo](#topo)

@@ -117,6 +117,7 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 | **TypeScript**  | 🔨 Desenvolvimento      |
 | **Python**      | 🔨 Desenvolvimento      |
 | **YOLO e Roboflow** | 🔨 Desenvolvimento  |
+| **Colab**       | 🔨 Desenvolvimento         |
 | **React Native**| 🔨 Desenvolvimento      |
 | **React**       | 🔨 Desenvolvimento      |
 | **Docker**      | 🔧 Desenvolvimento      |
