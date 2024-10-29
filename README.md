@@ -38,7 +38,7 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 |:--:|:----------:|:------------:|:-------------:|
 | 01 | 29/09/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint1.md) |
 | 02 | 20/10/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint2.md) |
-| 03 | 10/11/2024 | 🔒 Pendente | - |
+| 03 | 10/11/2024 | ✔️ Concluída | [Relatório](https://github.com/CloudSparkTeam/documentation/blob/main/sprints/sprint3.md) |
 | 04 | 01/12/2024 | 🔒 Pendente | - |
 
 → [Voltar ao topo](#topo)
@@ -60,8 +60,8 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 | 1 | Implementação do serviço de IA em nuvem | ✔️ |
 | 2 | Aplicação frontend mobile com mapas interativos e função de busca por zona de interesse| ✔️ |
 | 2 | Tela e operações de login | ✔️ |
-| 3 | Documentação do serviço de IA| 🔐 |
-| 3 | Função de download de imagens analisadas | 🔐 |
+| 3 | Documentação do serviço de IA| ✔️ |
+| 3 | Função de download de imagens analisadas | ✔️ |
 | 4 | Implementação do serviço mobile em nuvem | 🔐 |
 | 4 | Implementação do serviço web em nuvem | 🔐 |
 | 4 | Implementação do serviço backend em nuvem | 🔐 |
