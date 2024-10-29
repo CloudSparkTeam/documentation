@@ -89,6 +89,8 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 ## 🤖☁️ Documentação da IA
 
 🏗️ ESTE ESPAÇO ESTÁ DESTINADO PARA A DOCUMENTAÇÃO DA IA
+COMO USAR
+[documetacao](https://github.com/CloudSparkTeam/documentation/blob/main/docs/DocumentacaoIA.md)
 
 → [Voltar ao topo](#topo)
 
