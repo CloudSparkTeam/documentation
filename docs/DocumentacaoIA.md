@@ -1,6 +1,7 @@
 # O Algoritmo
 
-O algorimto utilizado
+O algorimto utilizado 
+falar sobre o alg Unet
 
 # Parâmetros
 
@@ -10,10 +11,6 @@ parametros que estao sendo utilizados
 
 como ocorre o tratamento das imagens
 
-# Entrada de dados
-
-qual o formato dos dados de entrada
-
-# Saída de dados
+# Entrada e saída de dados
 
 como são os dados de saida
