@@ -88,8 +88,10 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 ## 🤖☁️ Documentação da IA
 
-🏗️ ESTE ESPAÇO ESTÁ DESTINADO PARA A DOCUMENTAÇÃO DA IA
-COMO USAR
+A documentação sobre utilização da IA está presente na descrição do seguinte repositório:
+
+- → [Documentação IA](https://github.com/CloudSparkTeam)
+
 [documetacao](https://github.com/CloudSparkTeam/documentation/blob/main/docs/DocumentacaoIA.md)
 
 → [Voltar ao topo](#topo)
