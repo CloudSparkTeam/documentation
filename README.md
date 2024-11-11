@@ -90,9 +90,7 @@ Esse sistema contará com disponibilidade para dispositivos móveis, bem como, u
 
 A documentação sobre utilização da IA está presente na descrição do seguinte repositório:
 
-- → [Documentação IA](https://github.com/CloudSparkTeam)
-
-[documetacao](https://github.com/CloudSparkTeam/documentation/blob/main/docs/DocumentacaoIA.md)
+- → [Documentação IA](https://github.com/CloudSparkTeam/cloudSpark-terminator)
 
 → [Voltar ao topo](#topo)
 
